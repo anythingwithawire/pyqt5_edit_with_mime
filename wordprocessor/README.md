@@ -1,6 +1,6 @@
-# Stolen From Megasolid Idiom
+Stolen From Megasolid Idiom
 
 and
 
-https://nethumlamahewage.medium.com/integrating-spellchecking-into-a-qtextedit-widget-in-pyqt5-with-enchant-f025f4097e5c
-
+[https://nethumlamahewage.medium.com/integrating-spellchecking-into-a-qtextedit-widget-in-pyqt5-with-enchant-f025f4097e5c
+](https://stackoverflow.com/questions/65135649/resizable-in-line-image-on-qtextedit)
